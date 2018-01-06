@@ -1,0 +1,2 @@
+java.lang.NumberFormatException=Exception1
+java.io.FileNotFoundException=Exception2

@@ -1,0 +1,11 @@
+fileName=三国演义_罗贯中.txt
+person=刘备=玄德=刘皇叔
+person=关羽=云长=关公
+person=张飞=翼德
+person=赵云=子龙
+person=孔明=亮=卧龙
+person=姜维=伯约
+person=曹操=孟德
+person=司马懿=仲达
+person=孙权=仲谋
+person=周瑜=公瑾=周郎
